@@ -1,0 +1,23 @@
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.Model\bin\Debug\netcoreapp3.0\Restaurant.Model.deps.json
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.Model\bin\Debug\netcoreapp3.0\Restaurant.Model.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.Model\bin\Debug\netcoreapp3.0\Restaurant.Model.pdb
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.csprojAssemblyReference.cache
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.AssemblyInfoInputs.cache
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.AssemblyInfo.cs
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.pdb
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.Model\bin\Debug\netcoreapp3.0\Restaurant.Model.deps.json
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.Model\bin\Debug\netcoreapp3.0\Restaurant.Model.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.Model\bin\Debug\netcoreapp3.0\Restaurant.Model.pdb
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.AssemblyInfoInputs.cache
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.AssemblyInfo.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.pdb
+C:\Restaurant.UI\Restaurant.Model\bin\Debug\netcoreapp3.0\Restaurant.Model.deps.json
+C:\Restaurant.UI\Restaurant.Model\bin\Debug\netcoreapp3.0\Restaurant.Model.dll
+C:\Restaurant.UI\Restaurant.Model\bin\Debug\netcoreapp3.0\Restaurant.Model.pdb
+C:\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.csprojAssemblyReference.cache
+C:\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.AssemblyInfoInputs.cache
+C:\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.AssemblyInfo.cs
+C:\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.dll
+C:\Restaurant.UI\Restaurant.Model\obj\Debug\netcoreapp3.0\Restaurant.Model.pdb

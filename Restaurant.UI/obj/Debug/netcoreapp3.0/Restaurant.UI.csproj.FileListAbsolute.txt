@@ -1,0 +1,210 @@
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.exe
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.deps.json
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.runtimeconfig.json
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.runtimeconfig.dev.json
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.pdb
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.csprojAssemblyReference.cache
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI_MarkupCompile.cache
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI_MarkupCompile.lref
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.g.resources
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.AssemblyInfoInputs.cache
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.AssemblyInfo.cs
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.pdb
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.Model.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.pdb
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.Model.pdb
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.csproj.CopyComplete
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Autofac.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Prism.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\ProductListView.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\ProductOptionListView.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\ProductTypeListView.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\SelectedProductsListView.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\ProductListView.baml
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\ProductOptionListView.baml
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\ProductTypeListView.baml
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\SelectedProductsListView.baml
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.csprojAssemblyReference.cache
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI_MarkupCompile.cache
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI_MarkupCompile.lref
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.pdb
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.exe
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.deps.json
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.runtimeconfig.json
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.runtimeconfig.dev.json
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.pdb
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Autofac.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Prism.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.Model.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.pdb
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.Model.pdb
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.g.resources
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.AssemblyInfoInputs.cache
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.AssemblyInfo.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.csproj.CopyComplete
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\Email\EmailOptionsView.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\Email\EmailOptionsView.baml
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderHistory\OrderHistoryListView.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\OrderCreatorView.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\ProductListView.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\ProductOptionListView.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\ProductTypeListView.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\SelectedProductsListView.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderHistory\OrderHistoryListView.baml
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\ProductListView.baml
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\ProductOptionListView.baml
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\ProductTypeListView.baml
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\SelectedProductsListView.baml
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\OrderCreatorView.baml
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\OrderNotesView.g.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\OrderNotesView.baml
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.exe
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.deps.json
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.runtimeconfig.json
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.runtimeconfig.dev.json
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.UI.pdb
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Autofac.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Prism.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.Model.dll
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.pdb
+C:\Restaurant.UI\Restaurant.UI\bin\Debug\netcoreapp3.0\Restaurant.Model.pdb
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.csprojAssemblyReference.cache
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\Email\EmailOptionsView.g.cs
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderHistory\OrderHistoryListView.g.cs
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\OrderCreatorView.g.cs
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\OrderNotesView.g.cs
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\ProductListView.g.cs
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\ProductOptionListView.g.cs
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\ProductTypeListView.g.cs
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\SelectedProductsListView.g.cs
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI_MarkupCompile.cache
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI_MarkupCompile.lref
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\Email\EmailOptionsView.baml
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderHistory\OrderHistoryListView.baml
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\OrderCreatorView.baml
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\OrderNotesView.baml
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\ProductListView.baml
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\ProductOptionListView.baml
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\ProductTypeListView.baml
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\View\OrderPreparation\SelectedProductsListView.baml
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.g.resources
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.AssemblyInfoInputs.cache
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.AssemblyInfo.cs
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.csproj.CopyComplete
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.dll
+C:\Restaurant.UI\Restaurant.UI\obj\Debug\netcoreapp3.0\Restaurant.UI.pdb

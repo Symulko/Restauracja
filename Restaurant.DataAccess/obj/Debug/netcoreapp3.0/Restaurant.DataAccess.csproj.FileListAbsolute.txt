@@ -1,0 +1,39 @@
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.deps.json
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.pdb
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.Model.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.Model.pdb
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.csprojAssemblyReference.cache
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.AssemblyInfo.cs
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.csproj.CopyComplete
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.dll
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.pdb
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.runtimeconfig.json
+C:\Users\dawid\OneDrive\Pulpit\Metapack\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.runtimeconfig.dev.json
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.deps.json
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.runtimeconfig.json
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.runtimeconfig.dev.json
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.pdb
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.Model.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.Model.pdb
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.csprojAssemblyReference.cache
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.AssemblyInfo.cs
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.csproj.CopyComplete
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.dll
+C:\Users\dawid\OneDrive\Pulpit\Copy\Copy2 - Copy\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.pdb
+C:\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.deps.json
+C:\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.runtimeconfig.json
+C:\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.runtimeconfig.dev.json
+C:\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.dll
+C:\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.DataAccess.pdb
+C:\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.Model.dll
+C:\Restaurant.UI\Restaurant.DataAccess\bin\Debug\netcoreapp3.0\Restaurant.Model.pdb
+C:\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.csprojAssemblyReference.cache
+C:\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.AssemblyInfoInputs.cache
+C:\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.AssemblyInfo.cs
+C:\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.csproj.CopyComplete
+C:\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.dll
+C:\Restaurant.UI\Restaurant.DataAccess\obj\Debug\netcoreapp3.0\Restaurant.DataAccess.pdb

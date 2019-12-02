@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\Email\EmailOptionsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\OrderPreparation\OrderCreatorView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\OrderHistory\OrderHistoryListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\OrderPreparation\OrderNotesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\OrderPreparation\ProductListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\OrderPreparation\ProductOptionListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\OrderPreparation\ProductTypeListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\OrderPreparation\SelectedProductsListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Email\EmailOptionsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\OrderPreparation\OrderCreatorView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\OrderHistory\OrderHistoryListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\OrderPreparation\OrderNotesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\OrderPreparation\ProductListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\OrderPreparation\ProductOptionListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\OrderPreparation\ProductTypeListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\OrderPreparation\SelectedProductsListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
